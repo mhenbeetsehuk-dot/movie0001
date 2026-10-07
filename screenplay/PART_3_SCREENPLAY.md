@@ -1,130 +1,169 @@
-# Movie0001 — Part III Screenplay Development
+# Movie0001 — Part III: THE TRUTH — Shooting Draft 1.0
 
-**Title:** THE TRUTH  
-**Status:** First structural screenplay pass
+**Status:** LOCKED SHOOTING DRAFT  
+**Runtime target:** 50–58 minutes.  
+**Continuity:** Elias remains physically inside the Core Network after Part II; Mara remains with the surviving recovery operation.
 
 ## Sequence 01 — THE CORE
+Elias enters a region where geology, biological activity and Vein structure are inseparable.
 
-Elias experiences Nera through the Vein.
+His perception now combines normal senses with Vein-mediated pattern recognition.
 
-He perceives distance differently.
+He understands the network is distributed, not a single organism.
 
-Memories, biological signals and geological structures become one connected system.
-
-He understands that the Vein is not one organism.
-
-It is a network carrying accumulated intelligence.
+It carries accumulated information through biological, chemical, electrical and structural processes.
 
 ## Sequence 02 — MEMORY
+The Vein exposes fragments of previous intelligent contact.
 
-The Vein shows fragments of previous contact.
+No ancient beings are shown directly.
 
-Different intelligent species interacted with it.
+Instead: abandoned interfaces, altered structures, biological scars and encoded patterns.
 
-Some tried to communicate.
+Some visitors communicated.
 
-Others tried to control it.
+Others attempted control.
 
-The attempts to control it always ended in destruction.
+Control repeatedly damaged the system and the environments dependent upon it.
+
+Elias realises the pattern is historical, not unique to humanity.
 
 ## Sequence 03 — THE ORIGINAL PURPOSE
+Elias reconstructs evidence that an ancient intelligence shaped the original network.
 
-Elias discovers evidence of an ancient intelligence that shaped the network.
+The creators are never depicted.
 
-The creators are never shown directly.
+Their purpose appears to have been communication and planetary information continuity.
 
-Their legacy is the system itself.
+The network continued evolving beyond its creators.
 
-The Vein became something more than its creators intended.
+Elias cannot know every detail.
+
+The film preserves uncertainty.
 
 ## Sequence 04 — THE ORISON WAR
+ORISON leadership launches a final extraction attempt.
 
-ORISON launches a final extraction attempt.
+Mara receives the order to support it.
 
-Its leadership believes the information is too important to abandon.
+She refuses to authorise destructive containment.
 
-Mara opposes them.
+The research faction proceeds independently.
 
 ## Sequence 05 — TWO SYSTEMS
+Human machinery enters the Core.
 
-Human technology enters the Core Network.
+The Vein does not simply overpower it.
 
-The Vein begins adapting to the intrusion.
+It studies, redirects and incorporates the disturbance into its own response.
 
-Elias sees both systems trying to understand one another.
+Elias sees that both systems are adaptive.
+
+He understands that the central conflict is not human versus alien; it is control versus relationship.
 
 ## Sequence 06 — MARA'S LAST CHOICE
+Mara disables ORISON containment.
 
-Mara disables ORISON's containment protocol.
+Her action marks her as an internal target.
 
-She becomes a target of her own organization.
+She tells the surviving team to evacuate with the incomplete data.
 
-Her decision gives Elias time.
+**MARA**
+Take what we have. Nothing more.
+
+She stays long enough to give Elias time.
 
 ## Sequence 07 — THE COLLAPSE
+The extraction destabilises a core network junction.
 
-The extraction destabilises the Core.
+Water cycles, biological habitats and pressure systems begin failing.
 
-The network begins failing.
+Elias identifies a cascade.
 
-If it collapses, Nera's underground ecosystem will die.
+He cannot stop it from outside.
+
+He must enter the deepest interface.
 
 ## Sequence 08 — ELIAS'S CHOICE
+An emergency route opens.
 
-Elias can use the emergency route to escape.
+Elias could escape.
 
-He understands that leaving will allow the collapse to continue.
+He calculates the consequence of leaving.
 
-He chooses to remain.
+The collapse continues.
+
+He turns back.
+
+This is not surrender. It is a deliberate choice.
 
 ## Sequence 09 — THE TRANSFORMATION
+Elias enters deeper interface.
 
-Elias accepts a deeper interface.
+A04 develops into final integration.
 
-His adaptation reaches its final stage.
+He remains physically and psychologically himself.
 
-He is not absorbed.
+He can communicate with the Vein through structured patterns, sensory response and biological feedback.
 
-He remains himself.
+He cannot command the network.
 
-But communication with the Vein becomes possible.
+He can negotiate a stabilising response.
+
+The cost is immediate: human and Vein memory begin to overlap.
 
 ## Sequence 10 — THE COST
+Elias experiences memories that are not his own alongside his own memories.
 
-Elias loses the possibility of experiencing memory exactly as he once did.
+He accepts that his previous concept of memory will never be completely restored.
 
-Human memory and Vein memory now overlap.
+He chooses identity through continuity of values and decisions rather than perfect separation of memory.
 
-He accepts the cost.
+The network stabilises.
 
 ## Sequence 11 — THE ESCAPE
-
 Mara and the surviving recovery team leave Nera.
 
-They take incomplete data.
+Their data is incomplete.
 
-No one outside the team knows exactly what happened.
+ORISON leadership receives conflicting reports.
 
-Elias remains below the surface.
+Mara does not reveal everything she heard from Elias.
+
+Elias remains underground.
+
+No heroic reunion occurs.
 
 ## Sequence 12 — EPILOGUE
-
 Months later.
 
-An ORISON receiver detects a signal from Nera.
+An ORISON receiver detects a structured signal from Nera.
 
-Mara hears it.
+Mara is present.
 
-It contains a pattern no human system transmitted.
+The signal contains a pattern not generated by any human transmitter.
 
-She smiles faintly.
+It repeats once.
+
+Mara listens.
+
+A faint smile.
 
 CUT TO:
 
 Nera from orbit.
 
-A network of light moves beneath the surface.
+The surface appears quiet.
 
-One signal travels outward.
+Beneath it, the Vein's network carries a faint travelling signal.
+
+The signal reaches the upper atmosphere.
 
 CUT TO BLACK.
+
+## Production Lock Notes
+- Ancient creators remain unseen.
+- Elias is not omniscient and cannot command the Vein.
+- Final adaptation preserves identity while imposing permanent memory cost.
+- ORISON's final attempt has physical operational geography and consequences.
+- The orbital signal has a clear receiver and a defined non-human pattern.
