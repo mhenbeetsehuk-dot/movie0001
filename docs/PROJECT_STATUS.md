@@ -1,6 +1,6 @@
 # Project Status
 
-## Current milestone — Production System Complete
+## Current milestone — Controlled Media Production Started
 
 The trilogy has moved from structural development into a controlled production specification.
 
@@ -20,12 +20,12 @@ The trilogy has moved from structural development into a controlled production s
 - Editorial/sound/final-delivery package
 
 ### Current gate
-**Gate 2 — Controlled Look Development: READY FOR EVIDENCE**
+**Gate 2 — Controlled Look Development: READY FOR EVIDENCE / NOT PASSED**
 
 Gate 2 is not falsely marked passed. It requires the actual controlled reference renders and acceptance evidence.
 
 ### Production boundary
-The repository now contains the complete production blueprint. The remaining execution is media creation and finishing: reference rendering, asset rendering/build, shot generation, editorial, VFX, sound, QC and final master export.
+The repository contains the complete production blueprint plus the first controlled visual-production evidence log, priority Part I previs sheets and asset-build manifest. The remaining execution is media creation and finishing: reference rendering, asset rendering/build, shot generation, editorial, VFX, sound, QC and final master export.
 
 This distinction is deliberate: documentation cannot be represented as finished footage.
 
