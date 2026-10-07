@@ -1,758 +1,274 @@
-# Movie0001 — Part I Screenplay
+# Movie0001 — Part I: THE DROP — Shooting Draft 1.0
 
-**Version:** 0.1  
-**Status:** First screenplay pass  
-**Note:** This draft deliberately preserves unresolved canon as OPEN rather than inventing facts that could conflict with Parts II–III.
+**Status:** LOCKED SHOOTING DRAFT  
+**Canon:** Elias Venn / Nera / ORISON / Vein  
+**Purpose:** Production, previs and shot-generation source.  
+**Runtime target:** 42–50 minutes.  
+**Continuity rule:** No unexplained recovery, equipment gain, knowledge jump or adaptation jump.
 
----
+## Sequence 01 — THE DROP
 
-# PART I — THE DROP
+### Scene 1 — EXT. NERA SKY — DAY
+A damaged descent capsule breaks apart above Nera. ELIAS VENN, 38, systems engineer and autonomous-infrastructure specialist, falls with a damaged emergency harness. His suit is functional but compromised; one forearm module is cracked.
 
-## SEQUENCE 01 — THE DROP
+A distorted automated voice repeats fragments: “...descent failure... guidance unavailable...”
 
-### SCENE 1
+Elias reaches for the manual stabiliser. It responds once, then dies.
 
-**EXT. UNKNOWN PLANET — SKY — DAY**
-
-Silence.
-
-Then—
-
-A violent roar tears across the sky.
-
-A HUMAN FIGURE falls through an unfamiliar atmosphere.
-
-He is tumbling uncontrollably.
-
-His name is ELIAS VENN, 38.
-
-We do not yet know why he is here.
-
-We see fragments rather than explanations:
-
-A face.
-
-A hand gripping damaged equipment.
-
-A glimpse of impossible terrain below.
-
-Cloud.
-
-Rock.
-
-A vast landscape unlike Earth.
-
-The man tries to orient himself.
-
-He looks down.
-
-The ground is coming fast.
-
-His breathing becomes frantic.
-
-He searches for something—anything—that might give him control.
-
-Nothing responds.
-
-He looks toward the horizon.
-
-There is no sign of civilization.
-
-No aircraft.
-
-No rescue.
-
-Only an enormous alien world.
-
-The realization hits him:
-
-**He is alone.**
-
-A sudden shift in the air throws him sideways.
-
-He disappears into cloud.
-
-### SCENE 2
-
-**EXT. UNKNOWN PLANET — DESCENT — CONTINUOUS**
-
-The man emerges beneath the cloud layer.
-
-The environment is clearer now.
-
-The planet is beautiful.
-
-And hostile.
-
-The landscape stretches beyond anything he can comprehend.
-
-He spots a darker break in the terrain below.
-
-An opening.
-
-A canyon.
-
-A cave system.
-
-He cannot tell.
-
-He has seconds.
-
-He changes direction toward it.
-
-The ground rushes upward.
-
-He braces.
-
-### SCENE 3
-
-**EXT. PLANETARY SURFACE — IMPACT ZONE — CONTINUOUS**
-
-IMPACT.
-
-Dust and debris explode outward.
-
-Silence.
-
-Then a cough.
-
-The man's hand moves.
-
-He is alive.
-
-Barely.
-
-He rolls onto his back.
-
-He looks upward.
-
-The sky is wrong.
-
-He tries to speak.
-
-Nothing useful comes out.
-
-He checks himself.
-
-Pain.
-
-Blood.
-
-Damaged equipment.
-
-He reaches for a communication device.
+**ELIAS**
+Come on.
 
 Nothing.
 
-He tries again.
+Below: violent terrain, mineral flats, storm fronts and a dark geological opening.
 
-Nothing.
+Elias sees the opening and deliberately changes his fall trajectory toward it.
 
-He looks at the device.
+### Scene 2 — EXT. NERA SURFACE — IMPACT ZONE
+Elias hits hard. The harness breaks. Dust settles. He is conscious, bruised and bleeding at the brow. His left shoulder is impaired.
 
-Then at the empty horizon.
+He checks the emergency beacon. Dead. He checks water: limited. Food: limited. Tool kit: damaged. No functioning long-range communication.
 
-A faint sound interrupts him.
+A distant environmental vibration passes through the ground.
 
-He freezes.
+Elias stops.
 
-Something moved.
+**ELIAS**
+That wasn't the impact.
 
-He turns.
+A second vibration.
 
-Nothing.
+He moves toward the opening because the surface is increasingly dangerous.
 
-Another sound.
+### Scene 3 — INT. ROCK PASSAGE
+Elias enters. The temperature drops. He marks the entrance with a physical strip from his damaged harness.
 
-Closer.
+The mark is practical, not decorative.
 
-The environment suddenly feels much larger.
+A faint patterned vibration travels through the wall.
 
-The man forces himself upright.
+He notices it, but cannot interpret it.
 
-He sees the dark opening he noticed during the fall.
+**END SEQUENCE 01**
 
-He starts moving.
+## Sequence 02 — FIRST SHELTER
 
-Not because he knows it is safe.
+### Scene 4 — INT. UNDERGROUND PASSAGE / SHELTER CHAMBER
+Elias follows airflow into a chamber large enough to defend and small enough to control.
 
-Because standing still is worse.
+He inventories supplies and makes a survival ledger on a damaged tablet.
 
-### SCENE 4
+**ELIAS**
+Water. Four units. Food, three. Battery, one and a half.
 
-**EXT. UNKNOWN PLANET — ROCK FORMATION — MOMENTS LATER**
+He examines his shoulder and cleans the wound.
 
-The man reaches the opening.
+### Scene 5 — FIRST VEIN EVIDENCE
+A wall surface contains a mineral-organic seam. It is not visibly glowing like a fantasy object. A faint bioluminescent response appears only when Elias places his hand nearby.
 
-He stops.
+He withdraws.
 
-Looks inside.
+The response fades.
 
-Darkness.
+He records it.
 
-Behind him, the surface stretches into the distance.
+**ELIAS**
+Unknown conductive structure. Reactive.
 
-Another sound.
+A low vibration answers from deeper underground.
 
-He looks back.
+**END SEQUENCE 02**
 
-Whatever made it remains unseen.
+## Sequence 03 — LEARNING TO SURVIVE
 
-He turns toward the darkness.
+### Scene 6 — WATER
+Elias follows humidity and finds condensation. His first collection attempt fails. He redesigns the collection surface using recovered material.
 
-A final moment of hesitation.
+Second attempt succeeds.
 
-Then he enters.
+### Scene 7 — ROUTE SYSTEM
+He establishes a physical route-marking system and records distance, temperature and air movement.
 
-CUT TO BLACK.
+He tries the beacon again. Nothing.
 
----
+### Scene 8 — SURVIVAL ROUTINE
+Time passes through repeated actions: water collection, food rationing, injury care, equipment repair.
 
-## SEQUENCE 02 — FIRST SHELTER
+Elias becomes less reactive and more methodical.
 
-### SCENE 5
+**END SEQUENCE 03**
 
-**INT. UNDERGROUND PASSAGE — UNKNOWN**
+## Sequence 04 — THE FIRST SIGN
 
-Dark.
+### Scene 9 — CHANGED MARKER
+One route marker is no longer where Elias left it. He checks his map. The route has not moved; the wall surface has changed.
 
-The man's breathing echoes through the passage.
-
-He moves slowly.
-
-One hand against the wall.
-
-His other hand holds whatever usable equipment survived the fall.
-
-The passage narrows.
-
-He stops.
-
-Listens.
-
-Nothing.
-
-He continues.
-
-A faint change in the air.
-
-He notices it.
-
-He moves toward it.
-
-The passage opens into a larger chamber.
-
-Not comfortable.
-
-But defensible.
-
-He lowers himself against the wall.
-
-For the first time since the fall—
-
-he stops moving.
-
-He closes his eyes.
-
-Then hears a distant sound from deeper underground.
-
-His eyes open.
-
-CUT TO:
-
-### SCENE 6
-
-**INT. UNDERGROUND CHAMBER — LATER**
-
-The man examines his injuries.
-
-He takes inventory.
-
-Whatever supplies he has are limited.
-
-He checks his communication device again.
-
-Dead.
-
-He tries to ration what remains.
-
-Water.
-
-Food.
-
-Equipment.
-
-Everything becomes a calculation.
-
-He looks around the chamber.
-
-At first it appears natural.
-
-Then he notices something.
-
-A mark.
-
-Not quite geological.
-
-Not quite biological.
-
-He approaches it.
-
-Touches the surface.
-
-Nothing happens.
-
-He withdraws his hand.
-
-A faint sound travels through the chamber.
-
-He looks toward the darkness.
-
-The sound stops.
-
----
-
-## SEQUENCE 03 — LEARNING TO SURVIVE
-
-### SCENE 7
-
-**INT. UNDERGROUND CHAMBER — LATER**
-
-The man wakes.
-
-For a moment, he forgets where he is.
-
-Then reality returns.
-
-He checks his remaining water.
-
-Not enough.
-
-He looks toward the passage.
-
-He knows he has to move.
-
-### SCENE 8
-
-**INT. UNDERGROUND PASSAGES — LATER**
-
-He explores.
-
-He marks his route.
-
-A simple survival system.
-
-A mark on the wall.
-
-Another.
-
-He finds moisture.
-
-Collects what he can.
-
-He studies the underground environment.
-
-He notices patterns.
-
-Air movement.
-
-Temperature.
-
-Sounds.
-
-The underground is not random.
-
-It has rules.
-
-### SCENE 9
-
-**INT. UNDERGROUND CHAMBER — LATER**
-
-The man returns with limited resources.
-
-He has succeeded.
-
-Not enough.
-
-But enough to continue.
-
-He makes a primitive shelter.
-
-For the first time, he is not simply reacting.
-
-He is learning.
-
----
-
-## SEQUENCE 04 — THE FIRST SIGN
-
-### SCENE 10
-
-**INT. UNDERGROUND PASSAGE — LATER**
-
-The man follows a familiar route.
-
-Then stops.
-
-One of his marks is gone.
-
-He studies the wall.
-
-The mark has not been erased.
-
-The surface itself has changed.
+The mineral-organic seam has grown across the old mark.
 
 He touches it.
 
-A faint vibration.
+A vibration travels through the chamber.
 
-He pulls his hand away.
+The response occurs again when he touches a second seam.
 
-Silence.
+Elias connects the two locations on his map.
 
-He looks deeper into the passage.
+### Scene 10 — PATTERN
+He finds a third matching structure. The three form a route pointing deeper.
 
-Something has changed.
+He does not yet call it the Vein.
 
-### SCENE 11
+**ELIAS**
+You're not random.
 
-**INT. UNKNOWN UNDERGROUND AREA — LATER**
+**END SEQUENCE 04**
 
-He follows the anomaly.
+## Sequence 05 — ADAPTATION A01
 
-The passage opens into a chamber.
+### Scene 11 — HEARING
+Elias wakes before a sound occurs. Seconds later, the sound arrives.
 
-At its centre is something that does not belong.
+He tests distance. His hearing is subtly enhanced.
 
-We do not yet reveal exactly what it is.
+He records the event.
 
-The man approaches.
+### Scene 12 — CORRELATION
+Near a Vein seam, his hearing changes again. Away from it, it normalises.
 
-His expression changes.
+He realises the change is correlated with proximity.
 
-Recognition is impossible.
+He does not know the mechanism.
 
-But instinct tells him:
+**END SEQUENCE 05**
 
-Someone—or something—has been here.
+## Sequence 06 — THE UNDERGROUND REVEALS ITSELF
 
-He backs away.
+### Scene 13 — DESCENT
+Elias follows the patterned route.
 
-Then notices another sign.
+The passage expands into a vast subterranean environment.
 
-It matches the first.
+Organic-mineral structures are integrated into rock, carrying faint functional bioluminescence.
 
-He looks between them.
+The camera establishes scale through Elias, geological depth and distant moving environmental forms.
 
-The mystery has begun.
+### Scene 14 — RESPONSE
+Elias approaches one structure. A faint response propagates away from him through connected surfaces.
 
----
+He steps back.
 
-## SEQUENCE 05 — ADAPTATION
+The response stops.
 
-### SCENE 12
+**ELIAS**
+You noticed me.
 
-**INT. UNDERGROUND CHAMBER — LATER**
+**END SEQUENCE 06**
 
-The man wakes suddenly.
+## Sequence 07 — THE COST
 
-His breathing is abnormal.
+### Scene 15 — THREAT
+A native organism reacts to Elias entering its territory. It is biological and adapted to the underground environment, not a generic monster.
 
-He sits upright.
+Elias retreats.
 
-Listens.
+His shoulder prevents a clean climb.
 
-He can hear something far away.
+### Scene 16 — ADAPTATION A02
+His perception suddenly identifies a safer route through vibration before he can consciously see it.
 
-Much farther than he should be able to hear.
+He follows it and survives.
 
-He looks around.
+Afterward he vomits and experiences severe fatigue.
 
-Nothing.
+He examines his hands. No dramatic transformation. The change is internal and frightening.
 
-He waits.
+**END SEQUENCE 07**
 
-The sound continues.
+## Sequence 08 — THE DISCOVERY
 
-He realizes—
+### Scene 17 — EVIDENCE TABLE
+Back at shelter, Elias lays out route markers, environmental measurements, Vein observations and surviving mission equipment.
 
-it is real.
+A recurring signal pattern appears in his recordings.
 
-### SCENE 13
+He compares it to the damaged mission equipment.
 
-**INT. UNDERGROUND PASSAGE — LATER**
+There is a partial match.
 
-He tests his hearing.
+### Scene 18 — ARRIVAL CONNECTION
+Elias reconstructs his descent failure.
 
-He moves toward the sound.
+The guidance failure occurred immediately before the signal spike.
 
-Stops.
+He cannot prove causality.
 
-Moves away.
+**ELIAS**
+Either you pulled me here...
 
-The sound changes.
+He looks at the equipment.
 
-He is confused.
+**ELIAS**
+...or someone knew I would come.
 
-Then frightened.
+He writes: WHY ME?
 
-He looks at his hands.
+**END SEQUENCE 08**
 
-Something feels different.
+## Sequence 09 — THE CHOICE
 
-He does not know what is happening to him.
+### Scene 19 — TWO ROUTES
+Elias maps the known route back toward the surface and the patterned route deeper.
 
-He hides the fear.
+The surface route is increasingly unstable.
 
-For now.
+The deeper route is unknown.
 
----
+He chooses the deeper route because it is the only path that may explain his arrival and the only path that offers a sustainable underground resource network.
 
-## SEQUENCE 06 — THE UNDERGROUND REVEALS ITSELF
+He packs water, food, repair tools, recorder and route markers.
 
-### SCENE 14
+He leaves his improvised shelter intact.
 
-**INT. DEEP UNDERGROUND — LATER**
+### Scene 20 — ADAPTATION A03
+Before leaving, Elias experiences a brief visual-spatial correlation: the Vein response seems to anticipate his movement.
 
-The man moves beyond the areas he has explored before.
+He cannot tell whether the environment moved or his perception changed.
 
-The passage becomes enormous.
+He records one sentence:
 
-The ceiling disappears into darkness.
+**ELIAS**
+Do not assume intent.
 
-The underground is not a cave.
+**END SEQUENCE 09**
 
-It is a world.
+## Sequence 10 — PART I ENDING
 
-He stands at the edge of a vast subterranean space.
+### Scene 21 — THE THRESHOLD
+Elias descends through increasingly structured geology.
 
-Far below—
+A distant bioluminescent pattern responds to his presence.
 
-something moves.
+He reaches a ledge.
 
-He watches.
+Below is a planetary-scale network of organic-mineral structures extending beyond the limits of his light.
 
-He does not approach.
+The Vein is revealed through geography, not a glowing room.
 
-Not yet.
+Elias understands that the underground is a connected system.
 
-### SCENE 15
+A pattern travels toward him.
 
-**INT. DEEP UNDERGROUND — CONTINUOUS**
+He does not retreat.
 
-He discovers evidence of structure.
-
-Patterns.
-
-Repeated forms.
-
-An arrangement that appears deliberate.
-
-He touches one surface.
-
-Nothing.
-
-He touches another.
-
-A response.
-
-Very subtle.
-
-The environment seems to react.
-
-The man pulls his hand away.
-
-The silence becomes oppressive.
-
----
-
-## SEQUENCE 07 — THE COST
-
-### SCENE 16
-
-**INT. DEEP UNDERGROUND — LATER**
-
-A threat emerges.
-
-We do not fully reveal it.
-
-The man runs.
-
-His normal physical limits are not enough.
-
-He falls.
-
-The threat closes in.
-
-He reacts instinctively.
-
-The adaptation takes over.
-
-His senses sharpen.
-
-His body responds differently.
-
-He survives.
-
-But afterward—
-
-he is not the same.
-
-He looks at his hands.
-
-Then at the darkness.
-
-Fear replaces relief.
-
----
-
-## SEQUENCE 08 — THE DISCOVERY
-
-### SCENE 17
-
-**INT. UNDERGROUND CHAMBER — LATER**
-
-The man returns to his shelter.
-
-He lays out everything he has discovered.
-
-Marks.
-
-Objects.
-
-Notes.
-
-Maps.
-
-Patterns.
-
-He begins connecting them.
-
-One conclusion emerges.
-
-Then another.
-
-His face changes.
-
-The pieces point toward a possibility he does not want to accept.
-
-His arrival may not have been random.
-
-### SCENE 18
-
-**INT. UNDERGROUND CHAMBER — CONTINUOUS**
-
-He looks at the equipment that survived the fall.
-
-Then at the strange evidence from underground.
-
-He realizes the two may be connected.
-
-He sits silently.
-
-The question has changed.
-
-Not:
-
-**How do I survive?**
-
-But:
-
-**Why am I here?**
-
----
-
-## SEQUENCE 09 — THE CHOICE
-
-### SCENE 19
-
-**INT. UNDERGROUND CHAMBER — LATER**
-
-The man studies the route deeper underground.
-
-Then the route back toward the surface.
-
-He could remain where he is.
-
-Survive.
-
-Wait.
-
-Hope.
-
-Or continue.
-
-He packs what he can carry.
-
-He leaves the shelter.
-
-This time—
-
-he is choosing to go.
-
----
-
-## SEQUENCE 10 — PART I ENDING
-
-### SCENE 20
-
-**INT. DEEP UNDERGROUND — UNKNOWN**
-
-The man walks deeper.
-
-His light reveals only fragments.
-
-Rock.
-
-Unknown structures.
-
-Organic forms.
-
-Darkness.
-
-Then—
-
-the space opens.
-
-The scale is impossible.
-
-He stops.
-
-Ahead of him lies something vast enough to change everything he thought he understood about the planet.
-
-He does not speak.
-
-He simply stares.
+He steps forward.
 
 CUT TO BLACK.
 
-**END OF PART I — FIRST PASS**
+**END OF PART I**
 
----
-
-# Screenplay Development Notes
-
-## What is intentionally unresolved
-- Protagonist name and biography.
-- Exact reason for the drop.
-- Exact nature of the underground anomaly.
-- Exact adaptation mechanism.
-- Identity of the opposing force.
-- Exact Part I revelation.
-- Final Part I visual reveal.
-
-These must be resolved before the locked screenplay draft.
-
-## Next screenplay pass
-1. Establish protagonist identity.
-2. Define the exact opening/drop mechanics.
-3. Design the planet and underground visually.
-4. Define the adaptation scientifically/fictionally.
-5. Define the Part I revelation.
-6. Replace placeholders with specific action and dialogue.
-7. Perform continuity pass against Parts II and III.
-
-
-# Canon Pass 0.2
-
-Elias Venn, Nera, ORISON and the Vein are now defined by docs/CORE_CANON.md. The next screenplay revision must replace remaining generic mystery placeholders with these canon elements while preserving the staged reveal.
+## Production Lock Notes
+- Elias: E01 suit at opening, damaged E02 after impact, sustained shoulder injury through Part I.
+- Adaptation: A01 hearing sensitivity; A02 predictive spatial/vibration perception under threat; A03 early pattern integration at ending. A04 reserved for Part II.
+- Vein: functional bioluminescence only; no speech; responses are environmental.
+- ORISON is present only through damaged mission technology in Part I; its institutional reveal is deferred.
+- Every Part II reveal has a Part I evidence seed: compatibility, prior mission relevance, artificial/recorded signal, Vein responsiveness and progressive adaptation.
