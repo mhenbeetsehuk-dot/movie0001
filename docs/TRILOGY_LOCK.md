@@ -1,15 +1,15 @@
-# Movie0001 — Trilogy Story Lock
+# Trilogy Lock
 
-## Part I — THE DROP
-Elias Venn is deliberately dropped onto Nera to investigate an impossible subterranean signal. The mission fails, extraction is abandoned, and Elias survives underground. Exposure to the Vein begins changing him. He discovers evidence that his arrival may be connected to the signal. Ending: Elias enters the deeper network.
+## Part I — Survival
+Elias Venn arrives on Nera after a failed deep-space mission. He survives the hostile surface, establishes underground shelter, learns the environment and discovers evidence that the impossible signal is part of a larger system. Contact with the Vein begins subtle biological adaptation. Part I ends when Elias chooses to enter the deeper network.
 
-## Part II — THE ADAPTATION
-ORISON returns after learning Elias survived. The recovery operation becomes a conflict over the Vein. Elias discovers that his physiology was unusually compatible with the signal and that ORISON's selection of him was not entirely accidental. The Vein is revealed as an ancient planetary-scale intelligence/network. Ending: Elias enters the Core Network voluntarily.
+## Part II — Transformation
+Elias discovers that the underground system carries information and responds to him. He encounters evidence of an earlier human expedition, learns ORISON knows more than it admitted, and becomes increasingly integrated with the Vein. Mara Sloane is forced to confront that Elias was selected because of a deliberately exploited neurological compatibility. Part II ends with Elias entering the Core Network voluntarily.
 
-## Part III — THE TRUTH
-The Vein reveals its history and the consequences of human attempts to control it. ORISON makes a final attempt to extract the network's information. Elias chooses to stabilise the Vein rather than escape unchanged. He remains on Nera. Humanity leaves with incomplete knowledge. A final signal proves Elias may still be communicating.
+## Part III — Choice
+Elias experiences the network's memory and discovers evidence of its original purpose. ORISON factions attempt to control, extract or destroy the system. Elias chooses a relationship between humanity and the Vein rather than ownership. He stabilizes the Vein at significant personal cost. Humans leave Nera without complete knowledge or control.
 
-## Thematic resolution
-Part I asks: **Can he survive?**
-Part II asks: **What is he becoming?**
-Part III asks: **What will he choose to become?**
+Months later a signal from Nera reaches orbit. Final image: Nera from orbit, faint network of light beneath the surface, one signal travels outward. CUT TO BLACK.
+
+## Themes
+Survival vs understanding; contact vs control; human identity vs adaptation; knowledge vs ownership; choice vs predetermined purpose.

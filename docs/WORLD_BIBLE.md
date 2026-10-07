@@ -1,40 +1,27 @@
-# Movie0001 — World Bible
+# World Bible — Nera
 
-**Version:** 0.2
+Nera is an alien terrestrial planet with a hostile surface and an extensive underground habitable network.
 
-# NERA
+## Regions
+### Surface
+Danger comes from atmospheric, thermal, geological and biological conditions. Visual priorities: believable geology, atmospheric depth, particulate behaviour, physically motivated light and scale.
 
-Nera is a terrestrial planet with an extreme surface environment and a vast habitable underground network.
+### Shelter Zone
+First survivable underground region. Rock cavities, limited resources, water/chemical cycles, Elias's improvised survival infrastructure and first subtle evidence of the Vein.
 
-## Surface
-Severe temperature variation, violent atmospheric events, exposed mineral formations and sparse adapted life.
+### Vein Zone
+Deeper region where organic-mineral structures become visible. The Vein is integrated into geology, not pasted onto it.
 
-## Underground layers
-
-### Layer 1 — Shelter Zone
-Relatively stable caverns where Elias establishes survival.
-
-### Layer 2 — Vein Zone
-Organic-mineral structures become visible. The environment reacts to disturbances.
-
-### Layer 3 — Core Network
-Planetary-scale systems where ancient structures and the Vein coexist.
-
-## The Vein
-Interconnected structures resembling roots, nerves and geological formations. It transfers energy, chemical information, biological signals and encoded patterns.
-
-Its bioluminescence is functional rather than decorative.
+### Core Network
+Deepest known region. Scale exceeds ordinary human perception. It is a distributed planetary system, not a glowing room or giant computer.
 
 ## Native life
-Life on Nera has adapted around the Vein. Some organisms are attracted to its energy; others avoid it. Some dangerous organisms are defensive responses of the ecosystem rather than conventional predators.
-
-## Technology
-Human technology is industrial and recognisable. Vein-associated technology is initially impossible to classify. ORISON equipment bridges the two visual languages.
+Organisms must obey environmental logic and have a survival function. Avoid generic aliens and decorative glowing animals.
 
 ## Visual progression
-Part I: dark survival realism.  
-Part II: biological mystery and expanding scale.  
-Part III: integrated planetary intelligence and human technology.
+Part I: constrained survival realism.
+Part II: biological mystery and increasing scale.
+Part III: planetary intelligence and increasingly integrated human/Vein visual language.
 
-## World rule
-The environment always behaves according to internal logic. Spectacle must follow rules established earlier.
+## Forbidden
+Generic neon tubes, arbitrary glowing objects, generic fantasy landscapes, unexplained holograms, conventional Vein speech, unexplained technology that solves problems without setup.

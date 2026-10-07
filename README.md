@@ -1,24 +1,31 @@
-# Movie0001 — Film Development Repository
+# MOVIE0001 — NERA
 
-This repository is the source of truth for the movie project.
+A three-part science-fiction feature project built as a controlled production system.
 
-## Status
-- Repository initialized.
-- Story development, screenplay, production planning, and supporting assets will be versioned here.
-- No application authentication is currently required for this film-development repository.
+## Canon
+- Protagonist: Elias Venn, 38, systems engineer and autonomous-infrastructure specialist.
+- Planet: Nera, a hostile alien terrestrial world with a vast habitable underground network.
+- Organization: ORISON, a private deep-space systems organization divided by retrieval, containment and research interests.
+- Planetary network: The Vein, an organic-mineral planetary-scale system that transfers energy, chemical information, biological signals and encoded patterns.
+- Elias was deliberately sent to Nera to investigate an impossible subterranean signal. Extraction fails and he is abandoned.
+- Elias survives underground and progressively adapts to the Vein.
+- Part I: Can he survive?
+- Part II: What is he becoming?
+- Part III: What will he choose to become?
 
-## Structure
-- docs/ — story bible, world, characters, continuity and production notes
-- screenplay/ — screenplay drafts and scene breakdowns
-- production/ — shot lists, schedules, props, locations and production notes
-- assets/ — references and approved creative assets
-- research/ — research and source notes
+## Production gates
+0. Story lock → 1. Design lock → 2. Look development → 3. Previs → 4. Asset build → 5. Shot production → 6. Editorial → 7. Final
 
-## Workflow
-1. Develop and review material.
-2. Commit meaningful milestones.
-3. Keep canonical versions in this repository.
-4. Record major creative decisions in docs/DECISIONS.md.
+Current target: complete Gate 1 and enter controlled Look Development.
 
-## Security
-Never commit passwords, API keys, private credentials, access tokens, or other secrets. Use environment variables and a secret manager for future software tooling.
+## Repository
+- docs/ — canon and story control
+- screenplay/ — screenplay
+- production/ — design, shots, pipeline and QA
+- assets/ — approved production assets
+- references/ — controlled references
+- renders/ — generated outputs
+- audio/ — sound and music
+
+## Version rule
+Stable IDs never change. Revisions increment versions. Canon changes require an explicit decision record.
