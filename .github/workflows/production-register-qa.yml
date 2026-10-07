@@ -1,0 +1,21 @@
+name: Production Register QA
+
+on:
+  push:
+    paths:
+      - 'production/TRILOGY_MASTER_SHOT_REGISTER.md'
+      - 'production/PIPELINE_TRACKER.md'
+      - 'tools/validate_production_register.py'
+  pull_request:
+    paths:
+      - 'production/TRILOGY_MASTER_SHOT_REGISTER.md'
+      - 'production/PIPELINE_TRACKER.md'
+      - 'tools/validate_production_register.py'
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate controlled shot register
+        run: python tools/validate_production_register.py
