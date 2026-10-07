@@ -1,27 +1,28 @@
 # Project Status
 
-## Repository
-movie0001
+## Established
+- NERA trilogy architecture
+- Character/world canon
+- Part I–III structural screenplays
+- Production control system
+- Gate 1 design foundation
+- Environment/prop/creature/VFX packages
+- Look-dev test matrix
+- Previs/pipeline controls
+- Continuity/foreshadowing/editorial controls
 
-## Current milestone
-Repository initialization.
+## Current gate
+**Gate 1 — Design Lock / transition toward Look Development.**
 
-## Next development areas
-- Story bible
-- World rules and continuity
-- Character profiles
-- Three-part story architecture
-- Screenplay and sequence development
-- Production breakdown
-- Visual direction
-- Continuity tracking
+## Important limitation
+The screenplays remain structural first passes until screenplay lock is completed. Do not represent them as shooting drafts.
 
-## Versioning rule
-Every major approved story or production milestone should be committed to GitHub with a descriptive commit message.
+## Next production sequence
+1. Controlled look-development references.
+2. Approve principal visual identities.
+3. Priority previs.
+4. Full shot register.
+5. Reusable asset production.
+6. Shot-generation pipeline.
 
-
-## 2026-10-07 autonomous build milestone
-
-Completed: core canon, protagonist/antagonist framework, Nera world model, Vein system, trilogy lock, Part II and Part III sequence maps, production bible, pipeline gate, shot framework, asset register and continuity rules.
-
-**Current phase:** screenplay and visual-development lock before production pipeline.
+No gate is passed without acceptance evidence.
