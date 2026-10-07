@@ -1,31 +1,34 @@
 # Project Status
 
-## Established
-- NERA trilogy architecture
-- Character/world canon
-- Part I–III structural screenplays
-- Production control system
-- Gate 1 design foundation
-- Environment/prop/creature/VFX packages
-- Look-dev test matrix
-- Previs/pipeline controls
-- Continuity/foreshadowing/editorial controls
+## Current milestone — Production System Complete
 
-## Current gate
-**Gate 1 — Design Lock / transition toward Look Development.**
+The trilogy has moved from structural development into a controlled production specification.
 
-## Latest milestone
-The controlled pipeline-start package, look-development reference manifest, and screenplay-lock execution plan are now committed. The project is prepared to begin controlled Gate 2 look-development work.
+### Completed
+- Canon and trilogy architecture
+- Character/world/design systems
+- Parts I–III locked shooting drafts 1.0
+- High-risk screenplay issues addressed
+- Foreshadowing and continuity logic incorporated
+- Trilogy master shot register
+- Controlled look-development package
+- Gate 2 acceptance package
+- Priority previs execution package
+- Asset production master
+- Shot-generation runbook
+- Production QA execution package
+- Editorial/sound/final-delivery package
 
-## Important limitation
-The screenplays remain structural first passes until screenplay lock is completed. Do not represent them as shooting drafts.
+### Current gate
+**Gate 2 — Controlled Look Development: READY FOR EVIDENCE**
 
-## Next production sequence
-1. Begin controlled look-development references from the manifest.
-2. Approve principal visual identities.
-3. Priority previs.
-4. Full shot register.
-5. Reusable asset production.
-6. Shot-generation pipeline.
+Gate 2 is not falsely marked passed. It requires the actual controlled reference renders and acceptance evidence.
 
-No gate is passed without acceptance evidence.
+### Production boundary
+The repository now contains the complete production blueprint. The remaining execution is media creation and finishing: reference rendering, asset rendering/build, shot generation, editorial, VFX, sound, QC and final master export.
+
+This distinction is deliberate: documentation cannot be represented as finished footage.
+
+### Next executable chain
+Controlled reference renders → Gate 2 evidence → priority previs → asset build → shot generation → QA → editorial → VFX → sound → final master → archive.
+
