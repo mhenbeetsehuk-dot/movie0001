@@ -14,11 +14,14 @@
 ## Current gate
 **Gate 1 — Design Lock / transition toward Look Development.**
 
+## Latest milestone
+The controlled pipeline-start package, look-development reference manifest, and screenplay-lock execution plan are now committed. The project is prepared to begin controlled Gate 2 look-development work.
+
 ## Important limitation
 The screenplays remain structural first passes until screenplay lock is completed. Do not represent them as shooting drafts.
 
 ## Next production sequence
-1. Controlled look-development references.
+1. Begin controlled look-development references from the manifest.
 2. Approve principal visual identities.
 3. Priority previs.
 4. Full shot register.
