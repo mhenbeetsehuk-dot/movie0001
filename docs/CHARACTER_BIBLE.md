@@ -1,107 +1,50 @@
 # Movie0001 — Character Bible
 
-**Version:** 0.1  
-**Status:** Working development document
+**Version:** 0.2
 
-## 1. The Protagonist — The Man
+## ELIAS VENN
+**Age:** 38  
+**Former role:** Systems engineer / autonomous infrastructure specialist.
 
-### Canon
-- He is the central protagonist.
-- He is dropped onto an unknown planet.
-- He survives underground.
-- He adapts to the environment.
-- His adaptation becomes increasingly important to the trilogy.
+### Personality
+Analytical, patient under pressure, emotionally restrained, curious, suspicious of authority, protective once he accepts responsibility.
 
-### Dramatic function
-The protagonist is the audience's human connection to the planet. The audience learns the world at approximately the same rate he does.
+### Strengths
+Pattern recognition, engineering improvisation, systems thinking, persistence, ability to remain functional under extreme uncertainty.
 
-### Character arc
-**Part I:** Human being trying to survive.
+### Weaknesses
+Keeps emotions contained until damaging; tends to trust systems more than people; becomes obsessive around unsolved patterns; struggles to accept that some problems cannot be controlled.
 
-**Part II:** Survivor discovering that adaptation is changing him.
+### Core fear
+Becoming useful to a system at the cost of remaining human.
 
-**Part III:** Transformed human forced to decide what his identity and future mean.
+### External goal
+Survive and find a way off Nera.
 
-### OPEN
-- Name
-- Age
-- Origin
-- Profession
-- Family
-- Personality
-- Skills
-- Weaknesses
-- Reason for being dropped
-- Initial equipment
-- Knowledge of the planet
-- Nature of his biological adaptation
+### Internal goal
+Understand what happened without losing himself.
 
----
+### Trilogy arc
+**Part I:** Survivor.  
+**Part II:** Interface.  
+**Part III:** Choice-maker.
 
-## 2. The Force Behind the Drop
+## DR. MARA SLOANE
+**Age:** 46  
+**Role:** ORISON mission director.
 
-**Status:** OPEN.
+Intelligent, controlled and ethically compromised. She authorized the mission and later the abandonment of Elias. She believes sacrificing one person may prevent a larger catastrophe.
 
-This entity may be:
-- A person
-- An organization
-- A civilization
-- An artificial intelligence
-- A planetary mechanism
-- Another explanation
+### Arc
+Part I: distant authority.  
+Part II: antagonist and reluctant source of truth.  
+Part III: forced to confront the consequences of her decisions.
 
-The answer must support the trilogy's central mystery rather than exist only as a late twist.
+## ORISON
+A private deep-space systems organization divided internally into retrieval, containment and research factions.
 
----
+## THE VEIN
+A planetary-scale intelligence/network. It does not communicate through normal speech. Its intelligence is expressed through patterns, environmental responses, biological signals and memory-like impressions.
 
-## 3. Human/External Characters
-
-Future supporting characters should be introduced only when they serve a clear dramatic function.
-
-For each major character we will record:
-- Identity
-- Background
-- Objective
-- Fear
-- Relationship to protagonist
-- Knowledge of the central mystery
-- Character arc
-- Fate
-
----
-
-## 4. Antagonistic Force
-
-**Status:** OPEN.
-
-The antagonist does not necessarily need to be a conventional villain.
-
-Possible forms include:
-- Environmental threat
-- Biological threat
-- Intelligent entity
-- Human organization
-- Technological system
-- The protagonist's own adaptation
-- Combination of forces
-
-The eventual antagonist should challenge the protagonist's survival, identity and choices.
-
----
-
-## 5. Character Development Rule
-
-No important character should exist solely to explain exposition.
-
-Characters should:
-- Want something.
-- Face an obstacle.
-- Make consequential choices.
-- Change the protagonist or be changed by him.
-- Affect the plot.
-
----
-
-## 6. Character Continuity
-
-Once a character's major biography, motivation or fate is approved, it becomes canon and must be tracked across all three parts.
+## Character rule
+Every principal character must create a consequence. No character exists only to deliver exposition.
