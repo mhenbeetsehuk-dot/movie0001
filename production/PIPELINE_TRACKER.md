@@ -12,8 +12,8 @@
 | Production bible | COMPLETE | Pre-production |
 | Asset register | COMPLETE | Design |
 | Shot framework | COMPLETE | Shot planning |
-| Look development | READY TO START | Tests required |
-| Previs | READY AFTER LOOK DEV | Tests required |
+| Look development | PIPELINE START PACKAGE READY | Controlled references required |
+| Previs | BLOCKED BY GATE 2 | Begins after approved look-dev set |
 | Asset build | NOT STARTED | Previs approval |
 | Shot generation | NOT STARTED | Asset approval |
 | Edit | NOT STARTED | Shot generation |
