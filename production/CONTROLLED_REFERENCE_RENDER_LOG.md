@@ -28,3 +28,15 @@ Generated imagery is evidence for visual development, not canon by itself. Only 
 
 ## CRR-003 — Canon correction
 A dedicated controlled board now exists with correctly labelled Elias Venn and Mara Sloane. It remains a review candidate until individual production references are validated; no generated board is treated as final canon solely because it looks correct.
+
+
+## Media fingerprints
+These local generated media files are the current evidence candidates:
+
+| Render | Local file | Generation ID | SHA-256 |
+|---|---|---|---|
+| CRR-001 | a_cinematic_concept_art_style_reference_board_mo.png | f3f6ae79-1867-4944-9baf-1c7d0581c0b8 | e6e252266ff56d8a44e5f9eb66a96742401fefda73b33cb9c49a9a7fc40b718c |
+| CRR-002 | a_wide_clean_cinematic_concept_art_character_des.png | b7e998a8-7ce3-47c2-9639-0d20ef961e38 | d6de38c91b964625d6db72e1cab44ac02000a536b5cf98cd17e8899e180b81fd |
+| CRR-003 | a_wide_cinematic_concept_art_style_character_envir.png | fcb7282d-aa46-46b8-a176-88d51edb5e18 | c47bb4d8a4b090b5b314966dae8487f6bbf604e0461fbbde8ec55b3b002e9427 |
+
+The original PNGs remain outside GitHub because the connected GitHub text-content interface does not expose a direct binary-file upload from the generated media store. The fingerprints prevent ambiguity about which render candidates were reviewed.
