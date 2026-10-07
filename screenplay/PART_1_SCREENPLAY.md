@@ -24,7 +24,7 @@ A HUMAN FIGURE falls through an unfamiliar atmosphere.
 
 He is tumbling uncontrollably.
 
-We do not yet know his name.
+His name is ELIAS VENN, 38.
 
 We do not yet know why he is here.
 
@@ -751,3 +751,8 @@ These must be resolved before the locked screenplay draft.
 5. Define the Part I revelation.
 6. Replace placeholders with specific action and dialogue.
 7. Perform continuity pass against Parts II and III.
+
+
+# Canon Pass 0.2
+
+Elias Venn, Nera, ORISON and the Vein are now defined by docs/CORE_CANON.md. The next screenplay revision must replace remaining generic mystery placeholders with these canon elements while preserving the staged reveal.
