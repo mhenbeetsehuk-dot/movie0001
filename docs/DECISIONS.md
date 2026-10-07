@@ -9,3 +9,5 @@
 Use this file for decisions that materially affect story, worldbuilding, characters, structure, or production direction.
 
 | 2026-10-07 | Established Elias Venn, Nera, ORISON and the Vein as working trilogy canon. | Approved for development |
+| 2026-10-07 | Added production gating: look development and previs precede full shot generation. | Approved |
+| 2026-10-07 | Added stable asset/environment/prop registers and continuity tracking. | Approved |
