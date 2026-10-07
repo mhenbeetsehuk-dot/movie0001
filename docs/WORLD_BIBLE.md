@@ -1,143 +1,40 @@
-# Movie0001 — Planet & Underground World Bible
+# Movie0001 — World Bible
 
-**Version:** 0.1  
-**Status:** Working development document
+**Version:** 0.2
 
-## 1. Planet
+# NERA
 
-### Canon
-- The protagonist is dropped onto an unknown planet.
-- The planet contains an underground environment in which he survives.
-- The planet forces adaptation.
+Nera is a terrestrial planet with an extreme surface environment and a vast habitable underground network.
 
-### Design objective
-The planet should feel like a genuine ecosystem and world, not simply a backdrop.
+## Surface
+Severe temperature variation, violent atmospheric events, exposed mineral formations and sparse adapted life.
 
-It should have:
-- Environmental logic
-- Distinct regions
-- Resources
-- Hazards
-- Biological systems
-- Geological systems
-- A history
-- Rules that remain consistent
+## Underground layers
 
-### OPEN
-- Planet name
-- Gravity
-- Atmosphere
-- Temperature
-- Day/night cycle
-- Geological composition
-- Surface conditions
-- Native life
-- Intelligent life
-- Planetary history
-- Relationship between surface and underground
+### Layer 1 — Shelter Zone
+Relatively stable caverns where Elias establishes survival.
 
----
+### Layer 2 — Vein Zone
+Organic-mineral structures become visible. The environment reacts to disturbances.
 
-## 2. The Surface
+### Layer 3 — Core Network
+Planetary-scale systems where ancient structures and the Vein coexist.
 
-The surface is currently unknown.
+## The Vein
+Interconnected structures resembling roots, nerves and geological formations. It transfers energy, chemical information, biological signals and encoded patterns.
 
-This uncertainty is deliberate.
+Its bioluminescence is functional rather than decorative.
 
-The audience should not immediately receive a complete map or explanation of the planet.
+## Native life
+Life on Nera has adapted around the Vein. Some organisms are attracted to its energy; others avoid it. Some dangerous organisms are defensive responses of the ecosystem rather than conventional predators.
 
-Potential story function:
-- Initially perceived as lethal.
-- Later revealed to contain information unavailable underground.
-- Eventually connected to the larger truth.
+## Technology
+Human technology is industrial and recognisable. Vein-associated technology is initially impossible to classify. ORISON equipment bridges the two visual languages.
 
-These are DEVELOPMENT concepts until approved.
+## Visual progression
+Part I: dark survival realism.  
+Part II: biological mystery and expanding scale.  
+Part III: integrated planetary intelligence and human technology.
 
----
-
-## 3. The Underground
-
-The underground is the protagonist's primary environment.
-
-### Required characteristics
-
-It must provide:
-- Shelter
-- Food or an alternative energy source
-- Water or another hydration source
-- Movement routes
-- Hazards
-- Concealed areas
-- Discoverable structures or phenomena
-- A reason the protagonist cannot simply leave immediately
-
-### Evolution
-
-**Early:** Confusing, dangerous and claustrophobic.
-
-**Middle:** Mapped and partially understood.
-
-**Late:** Revealed to be much more significant than initially believed.
-
----
-
-## 4. Environmental Storytelling
-
-The world should communicate history without relying entirely on dialogue.
-
-Examples of useful evidence:
-- Abandoned structures
-- Biological traces
-- Strange geological formations
-- Altered ecosystems
-- Repeating patterns
-- Evidence of previous visitors
-- Signs that something has interacted with the environment
-
-These are possible devices, not yet canon.
-
----
-
-## 5. Adaptation System
-
-The adaptation process must follow understandable rules.
-
-### Questions to answer
-1. What is causing the adaptation?
-2. How quickly does it occur?
-3. Is it reversible?
-4. Does it provide advantages?
-5. What does it cost?
-6. Can other organisms undergo it?
-7. Does the protagonist understand what is happening?
-8. Can the adaptation ultimately affect his identity?
-
-No mechanism becomes canon until approved.
-
----
-
-## 6. Worldbuilding Rule
-
-Every major scientific, biological or environmental invention must answer:
-
-**Why does this exist?**
-
-and
-
-**What does it do to the story?**
-
-Worldbuilding should create dramatic consequences, not merely visual spectacle.
-
----
-
-## 7. Visual Identity
-
-The visual language should progressively evolve:
-
-**Part I:** Alien, dark, isolated, survival-focused.
-
-**Part II:** Larger, stranger, more biological/technological, increasingly connected.
-
-**Part III:** Full scale revealed; earlier environments gain new meaning.
-
-The precise visual palette, technology level and creature design remain OPEN.
+## World rule
+The environment always behaves according to internal logic. Spectacle must follow rules established earlier.
