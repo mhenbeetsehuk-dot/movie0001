@@ -24,3 +24,7 @@ Contains a stronger multi-asset visual board, including Elias, a female field sp
 
 ## Rule
 Generated imagery is evidence for visual development, not canon by itself. Only individually validated references become controlled assets.
+
+
+## CRR-003 — Canon correction
+A dedicated controlled board now exists with correctly labelled Elias Venn and Mara Sloane. It remains a review candidate until individual production references are validated; no generated board is treated as final canon solely because it looks correct.
