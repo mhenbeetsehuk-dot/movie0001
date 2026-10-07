@@ -32,3 +32,7 @@ This distinction is deliberate: documentation cannot be represented as finished 
 ### Next executable chain
 Controlled reference renders → Gate 2 evidence → priority previs → asset build → shot generation → QA → editorial → VFX → sound → final master → archive.
 
+
+
+### Production-control addition
+The repository now has automated QA for the trilogy master shot register. It enforces the current controlled minimum of 180 records (Part I 50, Part II 70, Part III 60) and rejects the obsolete 212-count metadata.
