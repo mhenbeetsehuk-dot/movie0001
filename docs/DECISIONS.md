@@ -7,3 +7,5 @@
 
 ## Change log
 Use this file for decisions that materially affect story, worldbuilding, characters, structure, or production direction.
+
+| 2026-10-07 | Established Elias Venn, Nera, ORISON and the Vein as working trilogy canon. | Approved for development |
