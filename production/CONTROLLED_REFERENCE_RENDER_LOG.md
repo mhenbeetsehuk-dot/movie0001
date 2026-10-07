@@ -40,3 +40,36 @@ These local generated media files are the current evidence candidates:
 | CRR-003 | a_wide_cinematic_concept_art_style_character_envir.png | fcb7282d-aa46-46b8-a176-88d51edb5e18 | c47bb4d8a4b090b5b314966dae8487f6bbf604e0461fbbde8ec55b3b002e9427 |
 
 The original PNGs remain outside GitHub because the connected GitHub text-content interface does not expose a direct binary-file upload from the generated media store. The fingerprints prevent ambiguity about which render candidates were reviewed.
+
+
+## Gate 2 visual QA — current review
+
+### CRR-001 — REWORK
+Useful for Elias, Nera and environmental language, but it lacks a valid Mara reference and therefore cannot establish the complete principal-character canon.
+
+### CRR-002 — REJECT
+The female principal is labelled as “Nera” rather than Mara Sloane. This is an identity-control failure. It cannot be used as character canon.
+
+### CRR-003 — REWORK / REJECT AS FINAL
+Although Elias and Mara are correctly named, several details conflict with locked canon:
+- Mara is shown as age 29 / biologist; canon is **Mara Sloane, 46, ORISON mission director**.
+- Nera includes monumental spire-like structures that risk violating the grounded planetary-language rule.
+- The Core reads too much like a conventional technological chamber rather than an organic-mineral planetary network.
+- Later Vein states drift toward purple/red coloration; the locked visual language is predominantly cold blue/teal bioluminescence.
+- Recovery Craft and ORISON designs require a more industrial, mission-specific treatment before lock.
+
+**Gate 2 result:** NO PASS. All current boards remain development references only.
+
+### Required next visual pass
+Render individual, canon-labelled references rather than relying on multi-panel boards:
+1. Elias Venn — locked identity.
+2. Mara Sloane — 46, ORISON mission director.
+3. Nera surface — grounded, non-fantasy planetary landscape.
+4. Impact Zone.
+5. Shelter.
+6. Vein Zone.
+7. Core — organic-mineral, not conventional architecture.
+8. ORISON Command.
+9. Recovery Craft.
+10. Elias A01-A04.
+11. Vein V01-V06 — blue/teal functional progression.
