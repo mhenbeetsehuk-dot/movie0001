@@ -13,7 +13,7 @@ These are production prompts/constraints for the next individual reference-rende
 ## Environment references
 
 ### REF-E-001 — Nera Surface
-Earth-like but alien planetary landscape; mountains, valleys, rivers, forests and coastlines; breathable atmosphere with surface hazards; realistic geology; no fantasy architecture; no monumental alien city; Vein network remains subterranean.
+Dark, hostile and fundamentally uninhabitable alien planetary landscape; severe environmental conditions, low or unsafe human habitability, heavy atmosphere/haze, weak or filtered sunlight, rugged mountains, deep valleys, rivers or chemically altered water systems, sparse hostile vegetation and exposed geology; realistic geology; no fantasy architecture; no monumental alien city; Vein network remains subterranean. Nera should feel dangerous, oppressive and biologically/geologically hostile rather than Earth-like and welcoming.
 
 ### REF-E-002 — Impact Zone
 Recent capsule crash in harsh Nera terrain; damaged descent capsule, smoke, fire remnants, debris, credible impact geometry; same terrain language as REF-E-001.
