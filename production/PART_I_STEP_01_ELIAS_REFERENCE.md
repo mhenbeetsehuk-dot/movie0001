@@ -1,6 +1,6 @@
 # PART I — STEP 01: CANONICAL ELIAS VENN IMAGE
 
-Status: READY FOR FREE IMAGE GENERATION
+Status: QA PASSED — CANONICAL REFERENCE SELECTED
 Gate: GATE-2 / Character Reference
 Asset ID: REF-C-001
 Character ID: CH-001
@@ -60,7 +60,7 @@ No superhero physique, no bodybuilder proportions, no young model appearance, no
 5. Preserve the original generated file.
 6. Record the generator, date, model if shown, prompt version, and generation/reference ID if available.
 7. Bring the selected image back into the project workflow as REF-C-001.
-8. Do not approve it as canon until continuity QA passes.
+8. Canonical approval: PASSED on 2026-10-07 after visual continuity review of the supplied REF-C-001 candidate.
 
 ## Acceptance criteria
 
@@ -84,8 +84,14 @@ assets/references/characters/REF-C-001_ELIAS_VENN_E01_[GENERATOR]_[YYYYMMDD].png
 
 Keep the generator name in the filename until the provenance record is completed.
 
+## QA result
+
+REF-C-001 PASSED. The supplied reference establishes the canonical Elias Venn identity for Part I.
+
 ## Next step
 
-After REF-C-001 passes QA, proceed to Step 02: REF-C-002 Mara Sloane.
+Proceed to Step 02: REF-C-002 Mara Sloane.
+
+Do not generate Part I shot images or Elias adaptation states until the Mara principal reference is also controlled.
 
 Do not move to shot generation before both principal character references are controlled.
