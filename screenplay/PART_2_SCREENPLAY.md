@@ -1,169 +1,215 @@
-# Movie0001 — Part II Screenplay Development
+# Movie0001 — Part II: THE ADAPTATION — Shooting Draft 1.0
 
-**Title:** THE ADAPTATION  
-**Status:** First structural screenplay pass
+**Status:** LOCKED SHOOTING DRAFT  
+**Runtime target:** 48–55 minutes.  
+**Continuity:** Direct continuation from Part I. Elias enters with E02 suit state, sustained injuries and A03 adaptation.
 
 ## Sequence 01 — THE THRESHOLD
+Elias crosses into the deeper Vein Zone. His A03 perception identifies patterns before ordinary sight does.
 
-Elias enters the deeper Vein.
+He finds a corroded human expedition marker embedded in rock.
 
-The environment is no longer recognisably geological. Organic-mineral structures form corridors around him.
+A date and mission code predate ORISON's current mission.
 
-He discovers an abandoned human expedition marker.
+A dormant recorder activates when Elias approaches.
 
-It predates ORISON's mission.
+**RECORDER (DISTORTED)**
+If the network responds, withdraw.
 
-Elias realises he is not the first human to reach this place.
+The recorder dies.
 
-**Turn:** A dormant ORISON transmission activates.
+Elias copies the mission code.
 
 ## Sequence 02 — THE GHOST SIGNAL
+The Vein carries a sound pattern that resembles Mara Sloane's voice because it is replaying a preserved transmission embedded in the expedition equipment.
 
-Elias hears a familiar voice.
-
-**MARA (TRANSMISSION)**  
+**MARA (TRANSMISSION)**
 Elias. If you can hear this, do not follow the signal.
 
-He freezes.
+Elias recognises the voice but notices the recording is old.
 
-The message is old, but the implication is immediate: ORISON knows he survived.
+The message contains coordinates.
 
-The transmission contains coordinates.
-
-Elias copies them.
+He follows them only after recording the route.
 
 ## Sequence 03 — THE SECOND PRESENCE
+The coordinates lead to an old interface site.
 
-Following the signal reveals another pattern inside the Vein.
+Human equipment has been physically integrated into a damaged Vein structure.
 
-It does not behave like the planetary network.
+Elias distinguishes two patterns: the Vein's native response and an artificial signal imposed on it.
 
-It appears to be an artificial intrusion.
+The artificial pattern repeats a command sequence.
 
-Elias discovers that the earlier expedition attempted to interface with the Vein.
-
-The attempt ended catastrophically.
+This is the first evidence that the previous expedition attempted forced contact.
 
 ## Sequence 04 — THE RETURN
+Orbit: ORISON recovery craft enters Nera orbit.
 
-ORISON arrives in orbit.
+MARA SLOANE, 46, leads the recovery operation.
 
-Mara leads a recovery operation.
+Her official order: recover Elias.
 
-Her official objective is to retrieve Elias.
+Her private operational objective: recover the Vein data.
 
-Her secondary objective is to recover the Vein data.
+A research faction insists the data must not be lost.
+
+Mara accepts the mission but orders the team to prioritise Elias's survival.
 
 ## Sequence 05 — CONTACT
-
 The recovery team enters the underground.
 
-The Vein reacts.
+Their equipment disturbs the Vein.
 
-The team interprets the reaction as aggression.
+The network closes one route and opens another.
 
-Elias understands that it is a defensive response.
+The team interprets the response as attack.
 
-He tries to stop them.
+Elias arrives.
 
-They do not trust him.
+**ELIAS**
+Stop moving.
 
-## Sequence 06 — THE INTERFACE
+**TEAM LEAD**
+We're getting you out.
 
-Elias begins navigating the network using his altered perception.
+**ELIAS**
+You're making it worse.
 
-He can detect patterns invisible to the others.
+The team distrusts him.
 
-Mara sees the implications.
+Mara arrives.
 
-Elias is not merely surviving the Vein.
+She and Elias see one another for the first time since the mission began.
 
-He is becoming compatible with it.
+## Sequence 06 — THE INTERFACE / A04
+Elias navigates through a route invisible to the others.
+
+He uses vibration, spatial changes and the Vein's responses.
+
+Mara watches.
+
+**MARA**
+How are you doing that?
+
+**ELIAS**
+I'm not sure I am.
+
+His adaptation reaches A04: controlled interface perception, still limited and physically costly.
+
+He can identify network pathways and emotional/biological pattern signatures, but cannot read minds or become omniscient.
 
 ## Sequence 07 — THE OLD EXPEDITION
+The team recovers the previous expedition archive.
 
-Recovered records reveal the earlier mission.
+The records establish:
+- mission purpose: investigate the signal;
+- forced interface attempt;
+- network defensive isolation;
+- loss of personnel;
+- repeated warning: DO NOT FORCE CONTACT.
 
-The explorers attempted to extract information from the Vein.
-
-The network responded by isolating the expedition.
-
-The surviving records contain one repeated warning:
-
-**DO NOT FORCE CONTACT.**
+Elias sees the same pattern in his own mission failure.
 
 ## Sequence 08 — MARA'S CONFESSION
+Mara tells Elias the truth.
 
-Mara admits Elias was selected because his neurological profile matched the original signal.
+His neurological profile matched the original signal's compatibility parameters.
 
-Elias understands that the mission was never entirely random.
+ORISON selected him deliberately.
 
-Mara insists she did not know whether the signal had selected him or merely predicted him.
+**ELIAS**
+You sent me because you thought it would answer.
 
-Elias does not forgive her.
+**MARA**
+We sent you because you were the only candidate who matched.
+
+**ELIAS**
+That's not an answer.
+
+Mara admits she did not know whether the signal was selecting him or merely detecting a matching profile.
 
 ## Sequence 09 — THE BREACH
+ORISON research personnel activate an extraction system without Mara's approval.
 
-ORISON's research faction activates an extraction system.
+The Vein destabilises.
 
-The Vein begins destabilising.
+Elias experiences memory-like fragments: landscapes, biological responses and traces of prior contact.
 
-The underground changes.
+He cannot distinguish all memories from his own.
 
-Elias experiences memories that are not his own.
+He collapses.
+
+Mara shuts down one extraction channel.
 
 ## Sequence 10 — THE PLANET RESPONDS
-
-Nera reacts at planetary scale.
+Nera's underground network reroutes pressure, water and biological activity.
 
 Surface storms intensify.
 
-Underground pathways shift.
-
 The recovery team is separated.
 
-Mara finally understands that extraction is damaging the system.
+Mara realises the system is not attacking randomly; it is protecting connected life-support functions.
+
+She orders withdrawal from the extraction zone.
 
 ## Sequence 11 — THE CHOICE
+ORISON offers Elias an extraction route in exchange for access to the interface data.
 
-Elias can help ORISON escape with the data.
+He refuses.
 
-Or he can protect the Vein.
+Mara sides with him.
 
-He chooses the latter.
-
-Mara helps him.
+Together they isolate the extraction system.
 
 ## Sequence 12 — THE REVELATION
+Elias compares the original signal, the compatibility data and the Vein response.
 
-Elias discovers the signal was not a distress call.
+The pattern was not a distress call.
 
-It was a compatibility test.
+It was a test.
 
-Something inside the Vein was looking for a mind capable of interface.
+The system was determining whether a compatible mind could establish non-destructive contact.
+
+The conclusion is not that the Vein "chose Elias" as a magical prophecy; it detected a biological/neurological compatibility condition.
 
 ## Sequence 13 — THE SEPARATION
+Elias shuts down the remaining extraction architecture.
 
-Elias shuts down ORISON's extraction system.
+The interface has changed him permanently.
 
-The adaptation becomes permanent.
+A04 is now stable but costly: sensory overload, memory bleed and fatigue remain.
 
-His connection to the Vein cannot now be fully reversed.
+Mara prepares evacuation.
 
 ## Sequence 14 — END OF PART II
+At a collapsing access chamber, Elias faces the Core threshold.
 
-Elias enters the Core Network voluntarily.
+Mara understands he intends to continue.
 
-Mara watches from the collapsing access chamber.
+**MARA**
+Elias.
 
-**MARA**  
-Elias...
+He turns.
 
-He looks back.
+**MARA**
+Do you know what you're doing?
 
-**ELIAS**  
-I know.
+**ELIAS**
+Enough.
 
-He disappears into the light.
+He enters the Core.
+
+He does not teleport. The camera retains geography as he passes beyond the threshold.
+
+Mara watches until the route closes.
 
 CUT TO BLACK.
+
+## Production Lock Notes
+- Mara's transmission is explicitly an old preserved recording, resolving timing ambiguity.
+- Artificial intrusion is visually seeded before it is named.
+- Earlier expedition has defined chronology and purpose.
+- A01–A03 are established in Part I; A04 occurs here.
+- Compatibility reveal is supported by Part I signal correlation and Part II expedition records.
+- Core entry is physical and geographically continuous.
